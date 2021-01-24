@@ -235,11 +235,12 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 
 
-/*<span>Photo by <a href="https://unsplash.com/@gardiept?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gardie Design &amp; Social Media Marketing</a> on <a href="https://unsplash.com/s/photos/beach?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
+/*<span>Photo by <a href="https://unsplash.com/@hermansyah?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hermansyah</a> on <a href="https://unsplash.com/s/photos/sea?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*/
+
 
 
 .bg-container {
-    background-image: url("../imgs/bg.jpg");
+    background-image: url("../imgs/image-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
